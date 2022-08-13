@@ -18,7 +18,7 @@ public class ex1 {
         do{
             System.out.println("Informe a Nota: ");
             nota = sc.nextFloat();
-            if (nota<=0 || nota>=10){
+            if (nota<=0 || nota>=11){
                 
                 System.out.println("Numero invalido");
                 
@@ -26,7 +26,7 @@ public class ex1 {
                 System.out.println("Valor Informado valido ");
                
             }
-        }while(nota<=0 || nota>=10);
+        }while(nota<=0 || nota>=11);
         
     
         
