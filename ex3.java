@@ -1,4 +1,4 @@
-package Lista3;
+package com.mycompanypedro.lista3;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
